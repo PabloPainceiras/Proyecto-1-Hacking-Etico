@@ -79,7 +79,7 @@ Fecha de publicación: 29/03/2018
 
 ### Severidad: CRÍTICA
 
-### CWE-94: Improper Control of Generation of Code ('Code Injection')
+### CWE-94: Control Inadecuado de la Generación de Código ('Code Injection')
 
 ### Descripción:
 
@@ -231,7 +231,7 @@ Fecha de publicación: 03/11/2020
 
 ### Severidad: CRÍTICA
 
-### CWE-264: Weaknesses in this category are related to the management of permissions, privileges, and other security features that are used to perform access control.
+### CWE-264: Las debilidades en esta categoría están relacionadas con la gestión de permisos, privilegios y otras características de seguridad que se utilizan para realizar el control de acceso.
 
 ### Descripción:
 
@@ -299,7 +299,7 @@ Fecha de publicación: 10/11/2023
 
 ### Severidad: CRÍTICA
 
-### CWE-693: Protection Mechanism Failure
+### CWE-693: Fallo del mecanismo de protección
 
 ### Descripción:
 
