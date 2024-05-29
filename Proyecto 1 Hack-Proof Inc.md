@@ -71,7 +71,7 @@ Para realizar la siguiente selección de vulnerabilidades web, hemos revisado la
 
 # Clasificación y caracterización de Vulnerabilidades
 
-# CVE-2018-7600
+# CVE-2018-7600 - Drupalgeddon 2
 
 Fecha de publicación: 29/03/2018
 
@@ -135,7 +135,7 @@ La nueva versión lanzada, 7.58, tiene un nuevo archivo llamado "request-sanitiz
 
 [2] **[Medium](https://blog.appsecco.com/remote-code-execution-with-drupal-core-sa-core-2018-002-95e6ecc0c714)**
 
-# CVE-2023-25056
+# CVE-2023-25056 - Feed Them Social
 
 Fecha de publicación: 23/05/2023
 
@@ -223,7 +223,7 @@ Este es el resultado de un escaneo realizado con wpscan, que nos informa de que 
 
 [2] **[https://www.incibe.es/incibe-cert/alerta-temprana/vulnerabilidades/cve-2023-25056](https://www.incibe.es/incibe-cert/alerta-temprana/vulnerabilidades/cve-2023-25056)**
 
-# CVE-2020-28035
+# CVE-2020-28035 - WordPress XML-RPC
 
 Fecha de publicación: 03/11/2020
 
@@ -291,7 +291,7 @@ uid=1000(nth347) gid=1000(nth347) groups=1000(nth347),4(adm),24(cdrom),27(sudo),
 
 [2] **[Wordpress.org](https://wordpress.org/news/2020/10/wordpress-5-5-2-security-and-maintenance-release/)**
 
-# CVE-2023-45132
+# CVE-2023-45132 - Vulnerabilidad en NAXSI
 
 Fecha de publicación: 10/11/2023
 
@@ -409,7 +409,7 @@ Handling of the X-Forwarded-For header must be completely transparent to NAXSI
 
 [3] **[Github comentario](https://github.com/wargio/naxsi/pull/103)**
 
-# CVE-2023-31802
+# CVE-2023-31802 - Chamilo LMS
 
 Fecha de publicación: 05/12/2023
 
@@ -445,7 +445,7 @@ No hay exploit.
 
 [2] **[Aquasec.com](https://avd.aquasec.com/nvd/2023/cve-2023-31802/)**
 
-# CVE-2020-23643
+# CVE-2020-23643 - JIZHICMS
 
 Fecha de publicación: 11/01/2021
 
@@ -481,7 +481,7 @@ No hay exploit.
 
 [2] **[NIST](https://nvd.nist.gov/vuln/detail/CVE-2020-23643)**
 
-# CVE-2022-23795
+# CVE-2022-23795 - Joomla!
 
 Fecha de publicación: 30/03/2022
 
@@ -529,7 +529,7 @@ Realizar, por tanto, una de las siguientes acciones:
 
 [2] **[GITHUB EXPLOIT](https://github.com/Acceis/exploit-CVE-2023-23752)**
 
-# CVE-2023-42362
+# CVE-2023-42362 - NCR Teller
 
 Fecha de publicación: 14/09/2023
 
@@ -568,7 +568,7 @@ Instalar la última versión de la aplicación web NCR Teller.
 
 [3] **[NVD](https://nvd.nist.gov/vuln/detail/CVE-2023-42362#vulnConfigurationsArea)**
 
-# CVE-2011-3614
+# CVE-2011-3614 - Vanilla Forums
 
 Fecha de publicacion: 22/01/2020
 
