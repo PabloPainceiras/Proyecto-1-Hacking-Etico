@@ -576,7 +576,7 @@ Fecha de publicacion: 22/01/2020
 
 ### Severidad: Critica
 
-### CWE-284: Improper Access Control
+### CWE-284: Control de Acceso Inadecuado 
 
 ### Descripción
 
